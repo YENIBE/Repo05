@@ -1,0 +1,2 @@
+Contenido del primer archivo
+Contenido adicional al archivo1
